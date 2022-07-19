@@ -1,8 +1,8 @@
 # 🤖 Hello World! 🤖 <br>
 ### Eu sou o Gabriel Matina, pai do Lorenzo esposo da Paula 👪. <br>Mineiro (Uai sô), apaixonado por musica, esportes, e-sports e a boa gastronomia😋. 
 ### Estudante e **futuro desenvolvedor Full-Stack** .🤓 <br><br>
-## 📱 Contact:
-<br>
+## 📱 **Contact:**
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/gabriel-matina-64462124/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
@@ -12,8 +12,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 )](https://api.whatsapp.com/send?phone=5531973532831)
 
-## 🚀 Skills:
-<br>
+## 🚀 **Skills:**
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 )](https://pt.wikipedia.org/wiki/HTML5)
@@ -35,8 +34,7 @@
 )](https://pt.wikipedia.org/wiki/Microsoft_Windows)
 
 
-## 👨‍💻 Coming soon:
-<br>
+## 👨‍💻 **Coming soon:**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 )](https://pt.wikipedia.org/wiki/Python)
