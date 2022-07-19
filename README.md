@@ -1,9 +1,8 @@
 # 🤖 Hello World! 🤖 <br>
-### Eu sou o Gabriel Matina, pai do Lorenzo esposo da Paula 👪. <br>Mineiro (Uai sô), apaixonado por musica, esportes, e-sports e a boa gastronomia😋. <br>
+### Eu sou o Gabriel Matina, pai do Lorenzo esposo da Paula 👪. <br>Mineiro (Uai sô), apaixonado por musica, esportes, e-sports e a boa gastronomia😋. 
 ### Estudante e **futuro desenvolvedor Full-Stack** .🤓 <br><br>
 ## 📱 Contact:
 <br>
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/gabriel-matina-64462124/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
@@ -57,3 +56,5 @@
 <br>
 
 ![Gabriel Matina GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmatina&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmatina&layout=compact)](https://github.com/gabrielmatina/github-readme-stats)
