@@ -26,12 +26,7 @@
 )](https://pt.wikipedia.org/wiki/Shell_script)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 )](https://pt.wikipedia.org/wiki/Mysql)
-[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
-)](https://pt.wikipedia.org/wiki/Microsoft_Excel)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
-)](https://pt.wikipedia.org/wiki/Ubuntu)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
-)](https://pt.wikipedia.org/wiki/Microsoft_Windows)
+
 
 
 ## 👨‍💻 **Coming soon:**
